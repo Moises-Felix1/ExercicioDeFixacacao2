@@ -21,6 +21,10 @@ public class Program {
 		
 		List<Product> listap = new ArrayList<>();
 		
+		System.out.println("--------------------------------------------------");
+		System.out.println("EXERCICIO DE FIXAÇÃO SOBRE HERANACA & POLIMORFISMO");
+		System.out.println("--------------------------------------------------");
+		
 		System.out.print("Enter the number of products: ");
 		int number = sc.nextInt();
 		
